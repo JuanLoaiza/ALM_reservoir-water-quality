@@ -3,16 +3,22 @@ message: "If you use these reproducibility materials, please cite this release a
 title: "PALM LULC–Water Quality Reproducibility Package"
 type: software
 version: 1.0.0
+
 authors:
   - family-names: "Loaiza"
     given-names: "Juan Gabriel"
+    orcid: "https://orcid.org/0000-0002-5648-9496"
     affiliation: "Universidad Autónoma de Sinaloa (UAS), Mexico"
+
+repository-code: "https://github.com/JuanLoaiza/ALM_reservoir-water-quality"
+
 abstract: >-
   Reproducibility materials for the analysis of land-use/land-cover change and
   water-quality dynamics in the Adolfo López Mateos Reservoir (PALM), Sinaloa,
   Mexico. The package includes Google Earth Engine classification scripts,
   portable Python notebooks, analytical inputs, canonical derived products,
   selected outputs, and numerical validation records.
+
 keywords:
   - land use land cover
   - water quality
