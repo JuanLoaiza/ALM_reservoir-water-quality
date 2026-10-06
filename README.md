@@ -1,5 +1,7 @@
 # PALM LULC–Water Quality Reproducibility Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23178506.svg)](https://doi.org/10.5281/zenodo.23178506)
+
 **Version:** 1.0.0
 
 Reproducibility materials supporting the study of land-use/land-cover (LULC) change and water-quality dynamics in the Adolfo López Mateos Reservoir (PALM), Sinaloa, Mexico.
